@@ -9,5 +9,9 @@ public class Employee {
 		System.out.println("Bala");
 
 	}
+	
+	public void empAddress() {
+		System.out.println("Chennai");
+	}
 
 }
